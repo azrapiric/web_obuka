@@ -9,11 +9,11 @@
 			<form action={{route('snimi-vijest')}} method="POST" enctype="multipart/form-data">
 				@csrf
 				<div class="form-group">
-					<label>Naslov vijesti</label>
+					<label>News title</label>
 					<input type="text" name="title" class="form-control">
 				</div>
 				<div class="form-group">
-					<label>Sadržaj vijesti</label>
+					<label>News content</label>
 					<textarea  name="content" class="form-control"></textarea>
 				</div>
 				<div class="file-field">
@@ -37,6 +37,6 @@
 		</script>
 
     </body>
-	
+
 
 </html>
