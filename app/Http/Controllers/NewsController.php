@@ -24,7 +24,7 @@ class NewsController extends Controller
 
     }
 
-    //proba//
+
      private function uploadImage(Request $request) {
         if(!$request->hasFile('image')) {
             return response()->json(['upload_file_not_found'], 400);
