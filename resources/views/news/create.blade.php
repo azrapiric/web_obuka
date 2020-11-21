@@ -18,7 +18,7 @@
 				</div>
 				<div class="file-field">
 					<div class="btn btn-primary btn-sm float-left">
-						<span>Učitajte sliku</span>
+						<span>Upload photo</span>
 						<input type="file" name="image">
 					</div>
 				</div>
