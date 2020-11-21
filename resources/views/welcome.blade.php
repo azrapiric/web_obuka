@@ -36,8 +36,8 @@
 
             .top-right {
                 position: absolute;
-                right: 11px;
-                top: 19px;
+                right: 10px;
+                top: 18px;
             }
 
             .content {
