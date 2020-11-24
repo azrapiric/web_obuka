@@ -36,7 +36,7 @@
 
             .top-right {
                 position: absolute;
-                right: 10px;
+                right: 12px;
                 top: 18px;
             }
 
