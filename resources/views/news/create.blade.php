@@ -13,7 +13,7 @@
 					<input type="text" name="title" class="form-control">
 				</div>
 				<div class="form-group">
-					<label>News content</label>
+					<label>New content</label>
 					<textarea  name="content" class="form-control"></textarea>
 				</div>
 				<div class="file-field">
